@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is a Nextjs 13.3.4 | tailwindcss 3.3.2 | typescript 5.0.4 | storybook 7.0.8 | eslint 8.39.0 quick start template
 
 ## Getting Started
 
