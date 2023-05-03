@@ -11,6 +11,7 @@ yarn dev
 # or
 pnpm dev
 ```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 To, run the stroy book:
 
@@ -18,7 +19,8 @@ To, run the stroy book:
 npm run storybook
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:6006](http://localhost:6006) stroy book live link with your browser to see the result.
+
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
